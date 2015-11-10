@@ -14,8 +14,8 @@
     {
       "host": "localhost",
       "port": 7500,
-      "connTimeOut": 8000,
-      "readTimeOut": 8000,
+      "connTimeOut": 9000,
+      "readTimeOut": 9000,
 	  "threadTimeOut": 5000,
       "retry": 2,
       "logLevel": "INFO",
