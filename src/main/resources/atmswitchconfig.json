@@ -23,7 +23,7 @@
       "uidFormat":"11,2"
     },
     {
-      "host": "localhost",
+      "host": "calonline.com",
       "port": 9530,
       "connTimeOut": 8000,
       "readTimeOut": 8000,
