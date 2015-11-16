@@ -33,7 +33,7 @@
 		if(request.getParameter(hostIP)!=null && !"".equals(request.getParameter(hostIP))){
 			host = request.getParameter(hostIP);
 		}else{
-			out.write("HOST IS NULL");
+			out.write("HOST Name IS NULL");
 			return;
 		}
 
