@@ -23,7 +23,7 @@
       "uidFormat":"11,2"
     },
     {
-      "host": "calonline.com",
+      "host": "calonline-master.com",
       "port": 9530,
       "connTimeOut": 8000,
       "readTimeOut": 8000,
