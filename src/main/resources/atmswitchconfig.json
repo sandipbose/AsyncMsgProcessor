@@ -12,7 +12,7 @@
       "uidFormat":"11,2"
     },
     {
-      "host": "amexdiscover.com"
+      "host": "amexdiscover.com",
       "port": 7500,
       "connTimeOut": 9000,
       "readTimeOut": 9000,
