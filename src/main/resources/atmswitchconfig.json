@@ -17,13 +17,13 @@
       "connTimeOut": 9000,
       "readTimeOut": 9000,
 	  "threadTimeOut": 5000,
-      "retry": 2,
+      "retry": 3,
       "logLevel": "INFO",
       "echoTimeInterval": 1,
       "uidFormat":"11,2"
     },
     {
-      "host": "calonline.com",
+      "host": "calonline-master.com",
       "port": 9530,
       "connTimeOut": 8000,
       "readTimeOut": 8000,

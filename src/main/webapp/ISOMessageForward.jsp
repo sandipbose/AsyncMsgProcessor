@@ -40,7 +40,7 @@
 		if(request.getParameter(portIP)!=null && !"".equals(request.getParameter(portIP))){
 			port = request.getParameter(portIP);
 		}else{
-			out.write("PORT IS NULL");
+			out.write("PORT Number IS NULL");
 			return;
 		}
 
