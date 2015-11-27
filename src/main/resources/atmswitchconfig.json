@@ -1,7 +1,7 @@
 {
   "serverConfig": [
     {
-      "host": "visa",
+      "host": "visa.com",
       "port": 8083,
       "connTimeOut": 8000,
       "readTimeOut": 8000,
