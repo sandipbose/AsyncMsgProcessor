@@ -18,7 +18,7 @@
       "readTimeOut": 9000,
 	  "threadTimeOut": 5000,
       "retry": 3,
-      "logLevel": "INFO",
+      "logLevel": "DEBUG",
       "echoTimeInterval": 1,
       "uidFormat":"11,2"
     },
