@@ -31,7 +31,7 @@
       "retry": 2,
       "logLevel": "INFO",
       "echoTimeInterval": 1,
-      "uidFormat":"11,2"
+      "uidFormat":"11,2,3"
     }
   ],
   "logFileLocation": "/opt/arcot/logs/ISOStub"
