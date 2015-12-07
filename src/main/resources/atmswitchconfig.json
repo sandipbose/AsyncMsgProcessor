@@ -33,6 +33,17 @@
       "echoTimeInterval": 1,
       "uidFormat":"11,2,3"
     }
+    {
+      "host": "bankofamerica.com",
+      "port": 9530,
+      "connTimeOut": 8000,
+      "readTimeOut": 8000,
+          "threadTimeOut": 5000,
+      "retry": 2,
+      "logLevel": "INFO",
+      "echoTimeInterval": 1,
+      "uidFormat":"11,2"
+    }
   ],
   "logFileLocation": "/opt/arcot/logs/ISOStub"
 }
